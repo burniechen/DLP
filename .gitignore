@@ -1,0 +1,9 @@
+/pdf
+/NCTU_HW-DeepLearningPractice
+/Deep-learning
+*.zip
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+*.DS_Store
+*.pyc
+*.ipynb
